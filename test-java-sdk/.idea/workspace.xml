@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/GroupsApi.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac633cf8-b676-45d5-80b2-45c4cc8b8db8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupsApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/GroupsApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4378">
+              <caret line="251" column="47" lean-forward="false" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="C:/git_swagger/emchat-server-examples/emchat-server-java" value="2977924463182" />
+        <entry key="$PROJECT_DIR$/../java_online_api_client" value="2977068087044" />
+        <entry key="$PROJECT_DIR$/../pure_java_api_client" value="2978747064780" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadAndDownloadFilesApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/UsersApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAndDownloadFilesApiTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/swagger/client/api/AuthenticationApiTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="rest-java-client" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="rest-java-client" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="rest-java-client" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="deploy" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="rest-java-client" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1331" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swagger-java-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-java-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swagger-java-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-java-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swagger-java-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-java-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swagger-java-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-java-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="swagger-java-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test-java-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Useful Software/node/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Useful Software\node\node.exe" />
+  </component>
+  <component name="RunManager" selected="JUnit.UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest">
+    <configuration default="false" name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="swagger-java-client" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.client.api.UploadAndDownloadFilesApiTest" />
+      <option name="METHOD_NAME" value="orgNameAppNameChatfilesPostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="swagger-java-client" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.client.api.UploadAndDownloadFilesApiTest" />
+      <option name="METHOD_NAME" value="orgNameAppNameChatfilesUuidGetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="swagger-java-client" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac633cf8-b676-45d5-80b2-45c4cc8b8db8" name="Default" comment="" />
+      <created>1490094349095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490094349095</updated>
+      <workItem from="1490094351800" duration="1637000" />
+      <workItem from="1490096495581" duration="1095000" />
+      <workItem from="1490149221516" duration="9185000" />
+      <workItem from="1490169952800" duration="6065000" />
+      <workItem from="1490234435762" duration="734000" />
+      <workItem from="1490239656862" duration="43000" />
+      <workItem from="1490588644515" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesPostTest - 2017.03.22 at 10h 23m 53s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesPostTest - 2017.03.22 at 10h 24m 33s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesPostTest - 2017.03.22 at 10h 32m 51s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesPostTest - 2017.03.22 at 10h 39m 02s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesPostTest - 2017.03.22 at 10h 43m 45s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesPostTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesUuidGetTest - 2017.03.22 at 10h 54m 45s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesUuidGetTest - 2017.03.22 at 10h 55m 17s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesUuidGetTest - 2017.03.22 at 11h 01m 06s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UploadAndDownloadFilesApiTest_orgNameAppNameChatfilesUuidGetTest - 2017.03.22 at 11h 03m 24s.xml">
+      <configuration name="UploadAndDownloadFilesApiTest.orgNameAppNameChatfilesUuidGetTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19046000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1331" y="0" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16577825" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50595886" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26545843" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22426869" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/GroupsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5522">
+          <caret line="251" column="47" lean-forward="false" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/GroupsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="251" column="47" lean-forward="true" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAndDownloadFilesApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="103" column="23" lean-forward="false" selection-start-line="103" selection-start-column="23" selection-end-line="103" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/AuthenticationApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="57" column="42" lean-forward="false" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/AuthenticationApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="135" column="18" lean-forward="false" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2379#2380#0" expanded="false" />
+            <element signature="e#2436#2437#0" expanded="false" />
+            <element signature="e#2489#2490#0" expanded="false" />
+            <element signature="e#2531#2532#0" expanded="false" />
+            <element signature="e#2570#2571#0" expanded="false" />
+            <element signature="e#2602#2603#0" expanded="false" />
+            <element signature="e#2655#2656#0" expanded="false" />
+            <element signature="e#2697#2698#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/ChatHistoryApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/UploadAndDownloadFilesApi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UsersApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25124">
+          <caret line="1269" column="18" lean-forward="false" selection-start-line="1269" selection-start-column="18" selection-end-line="1269" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2496#2497#0" expanded="false" />
+            <element signature="e#2553#2554#0" expanded="false" />
+            <element signature="e#2597#2598#0" expanded="false" />
+            <element signature="e#2639#2640#0" expanded="false" />
+            <element signature="e#2678#2679#0" expanded="false" />
+            <element signature="e#2710#2711#0" expanded="false" />
+            <element signature="e#2763#2764#0" expanded="false" />
+            <element signature="e#2805#2806#0" expanded="false" />
+            <element signature="e#4542#4548#0" expanded="false" />
+            <element signature="e#4840#4856#0" expanded="false" />
+            <element signature="e#5051#5067#0" expanded="false" />
+            <element signature="e#5696#6203#0" expanded="false" />
+            <element signature="e#6202#6203#0" expanded="false" />
+            <element signature="e#9899#10170#0" expanded="false" />
+            <element signature="e#10169#10170#0" expanded="false" />
+            <element signature="e#10211#10503#0" expanded="false" />
+            <element signature="e#10502#10503#0" expanded="false" />
+            <element signature="e#12335#12341#0" expanded="false" />
+            <element signature="e#12633#12649#0" expanded="false" />
+            <element signature="e#12844#12860#0" expanded="false" />
+            <element signature="e#13489#13996#0" expanded="false" />
+            <element signature="e#13995#13996#0" expanded="false" />
+            <element signature="e#18268#18539#0" expanded="false" />
+            <element signature="e#18538#18539#0" expanded="false" />
+            <element signature="e#18580#18872#0" expanded="false" />
+            <element signature="e#18871#18872#0" expanded="false" />
+            <element signature="e#21777#21783#0" expanded="false" />
+            <element signature="e#21850#21866#0" expanded="false" />
+            <element signature="e#22061#22077#0" expanded="false" />
+            <element signature="e#22706#23213#0" expanded="false" />
+            <element signature="e#23212#23213#0" expanded="false" />
+            <element signature="e#26559#26830#0" expanded="false" />
+            <element signature="e#26829#26830#0" expanded="false" />
+            <element signature="e#26871#27163#0" expanded="false" />
+            <element signature="e#27162#27163#0" expanded="false" />
+            <element signature="e#29571#29577#0" expanded="false" />
+            <element signature="e#29644#29660#0" expanded="false" />
+            <element signature="e#29855#29871#0" expanded="false" />
+            <element signature="e#30500#31007#0" expanded="false" />
+            <element signature="e#31006#31007#0" expanded="false" />
+            <element signature="e#34034#34305#0" expanded="false" />
+            <element signature="e#34304#34305#0" expanded="false" />
+            <element signature="e#34346#34638#0" expanded="false" />
+            <element signature="e#34637#34638#0" expanded="false" />
+            <element signature="e#37305#37311#0" expanded="false" />
+            <element signature="e#37378#37394#0" expanded="false" />
+            <element signature="e#37589#37605#0" expanded="false" />
+            <element signature="e#38234#38741#0" expanded="false" />
+            <element signature="e#38740#38741#0" expanded="false" />
+            <element signature="e#42240#42511#0" expanded="false" />
+            <element signature="e#42510#42511#0" expanded="false" />
+            <element signature="e#42552#42844#0" expanded="false" />
+            <element signature="e#42843#42844#0" expanded="false" />
+            <element signature="e#45793#45799#0" expanded="false" />
+            <element signature="e#45866#45882#0" expanded="false" />
+            <element signature="e#46077#46093#0" expanded="false" />
+            <element signature="e#46722#47229#0" expanded="false" />
+            <element signature="e#47228#47229#0" expanded="false" />
+            <element signature="e#50556#50827#0" expanded="false" />
+            <element signature="e#50826#50827#0" expanded="false" />
+            <element signature="e#50868#51160#0" expanded="false" />
+            <element signature="e#51159#51160#0" expanded="false" />
+            <element signature="e#54113#54119#0" expanded="false" />
+            <element signature="e#54186#54202#0" expanded="false" />
+            <element signature="e#54397#54413#0" expanded="false" />
+            <element signature="e#55042#55549#0" expanded="false" />
+            <element signature="e#55548#55549#0" expanded="false" />
+            <element signature="e#58961#59232#0" expanded="false" />
+            <element signature="e#59231#59232#0" expanded="false" />
+            <element signature="e#59273#59565#0" expanded="false" />
+            <element signature="e#59564#59565#0" expanded="false" />
+            <element signature="e#61985#61991#0" expanded="false" />
+            <element signature="e#62058#62074#0" expanded="false" />
+            <element signature="e#62269#62285#0" expanded="false" />
+            <element signature="e#62914#63421#0" expanded="false" />
+            <element signature="e#63420#63421#0" expanded="false" />
+            <element signature="e#66410#66681#0" expanded="false" />
+            <element signature="e#66680#66681#0" expanded="false" />
+            <element signature="e#66722#67014#0" expanded="false" />
+            <element signature="e#67013#67014#0" expanded="false" />
+            <element signature="e#69418#69424#0" expanded="false" />
+            <element signature="e#69491#69507#0" expanded="false" />
+            <element signature="e#69702#69718#0" expanded="false" />
+            <element signature="e#70347#70854#0" expanded="false" />
+            <element signature="e#70853#70854#0" expanded="false" />
+            <element signature="e#73766#74037#0" expanded="false" />
+            <element signature="e#74036#74037#0" expanded="false" />
+            <element signature="e#74078#74370#0" expanded="false" />
+            <element signature="e#74369#74370#0" expanded="false" />
+            <element signature="e#76196#76202#0" expanded="false" />
+            <element signature="e#76269#76285#0" expanded="false" />
+            <element signature="e#76480#76496#0" expanded="false" />
+            <element signature="e#77125#77632#0" expanded="false" />
+            <element signature="e#77631#77632#0" expanded="false" />
+            <element signature="e#82783#83054#0" expanded="false" />
+            <element signature="e#83053#83054#0" expanded="false" />
+            <element signature="e#83095#83387#0" expanded="false" />
+            <element signature="e#83386#83387#0" expanded="false" />
+            <element signature="e#85645#85651#0" expanded="false" />
+            <element signature="e#85718#85734#0" expanded="false" />
+            <element signature="e#85929#85945#0" expanded="false" />
+            <element signature="e#86574#87081#0" expanded="false" />
+            <element signature="e#87080#87081#0" expanded="false" />
+            <element signature="e#89896#90167#0" expanded="false" />
+            <element signature="e#90166#90167#0" expanded="false" />
+            <element signature="e#90208#90500#0" expanded="false" />
+            <element signature="e#90499#90500#0" expanded="false" />
+            <element signature="e#92792#92798#0" expanded="false" />
+            <element signature="e#92865#92881#0" expanded="false" />
+            <element signature="e#93076#93092#0" expanded="false" />
+            <element signature="e#93721#94228#0" expanded="false" />
+            <element signature="e#94227#94228#0" expanded="false" />
+            <element signature="e#97125#97396#0" expanded="false" />
+            <element signature="e#97395#97396#0" expanded="false" />
+            <element signature="e#97437#97729#0" expanded="false" />
+            <element signature="e#97728#97729#0" expanded="false" />
+            <element signature="e#99964#99970#0" expanded="false" />
+            <element signature="e#100037#100053#0" expanded="false" />
+            <element signature="e#100248#100264#0" expanded="false" />
+            <element signature="e#100893#101400#0" expanded="false" />
+            <element signature="e#101399#101400#0" expanded="false" />
+            <element signature="e#104487#104758#0" expanded="false" />
+            <element signature="e#104757#104758#0" expanded="false" />
+            <element signature="e#104799#105091#0" expanded="false" />
+            <element signature="e#105090#105091#0" expanded="false" />
+            <element signature="e#107371#107377#0" expanded="false" />
+            <element signature="e#107444#107460#0" expanded="false" />
+            <element signature="e#107655#107671#0" expanded="false" />
+            <element signature="e#108300#108807#0" expanded="false" />
+            <element signature="e#108806#108807#0" expanded="false" />
+            <element signature="e#111542#111813#0" expanded="false" />
+            <element signature="e#111812#111813#0" expanded="false" />
+            <element signature="e#111854#112146#0" expanded="false" />
+            <element signature="e#112145#112146#0" expanded="false" />
+            <element signature="e#114362#114368#0" expanded="false" />
+            <element signature="e#114435#114451#0" expanded="false" />
+            <element signature="e#114646#114662#0" expanded="false" />
+            <element signature="e#115291#115798#0" expanded="false" />
+            <element signature="e#115797#115798#0" expanded="false" />
+            <element signature="e#118423#118694#0" expanded="false" />
+            <element signature="e#118693#118694#0" expanded="false" />
+            <element signature="e#118735#119027#0" expanded="false" />
+            <element signature="e#119026#119027#0" expanded="false" />
+            <element signature="e#121347#121353#0" expanded="false" />
+            <element signature="e#121420#121436#0" expanded="false" />
+            <element signature="e#121631#121647#0" expanded="false" />
+            <element signature="e#122276#122783#0" expanded="false" />
+            <element signature="e#122782#122783#0" expanded="false" />
+            <element signature="e#125563#125834#0" expanded="false" />
+            <element signature="e#125833#125834#0" expanded="false" />
+            <element signature="e#125875#126167#0" expanded="false" />
+            <element signature="e#126166#126167#0" expanded="false" />
+            <element signature="e#128496#128502#0" expanded="false" />
+            <element signature="e#128569#128585#0" expanded="false" />
+            <element signature="e#128780#128796#0" expanded="false" />
+            <element signature="e#129425#129932#0" expanded="false" />
+            <element signature="e#129931#129932#0" expanded="false" />
+            <element signature="e#132713#132984#0" expanded="false" />
+            <element signature="e#132983#132984#0" expanded="false" />
+            <element signature="e#133025#133317#0" expanded="false" />
+            <element signature="e#133316#133317#0" expanded="false" />
+            <element signature="e#136048#136054#0" expanded="false" />
+            <element signature="e#136121#136137#0" expanded="false" />
+            <element signature="e#136333#136349#0" expanded="false" />
+            <element signature="e#136978#137485#0" expanded="false" />
+            <element signature="e#137484#137485#0" expanded="false" />
+            <element signature="e#140724#140995#0" expanded="false" />
+            <element signature="e#140994#140995#0" expanded="false" />
+            <element signature="e#141036#141328#0" expanded="false" />
+            <element signature="e#141327#141328#0" expanded="false" />
+            <element signature="e#143610#143616#0" expanded="false" />
+            <element signature="e#143683#143699#0" expanded="false" />
+            <element signature="e#143894#143910#0" expanded="false" />
+            <element signature="e#144539#145046#0" expanded="false" />
+            <element signature="e#145045#145046#0" expanded="false" />
+            <element signature="e#148782#149053#0" expanded="false" />
+            <element signature="e#149052#149053#0" expanded="false" />
+            <element signature="e#149094#149386#0" expanded="false" />
+            <element signature="e#149385#149386#0" expanded="false" />
+            <element signature="e#151594#151600#0" expanded="false" />
+            <element signature="e#151667#151683#0" expanded="false" />
+            <element signature="e#151878#151894#0" expanded="false" />
+            <element signature="e#152523#153030#0" expanded="false" />
+            <element signature="e#153029#153030#0" expanded="false" />
+            <element signature="e#156477#156748#0" expanded="false" />
+            <element signature="e#156747#156748#0" expanded="false" />
+            <element signature="e#156789#157081#0" expanded="false" />
+            <element signature="e#157080#157081#0" expanded="false" />
+            <element signature="e#159336#159342#0" expanded="false" />
+            <element signature="e#159409#159425#0" expanded="false" />
+            <element signature="e#159620#159636#0" expanded="false" />
+            <element signature="e#160265#160772#0" expanded="false" />
+            <element signature="e#160771#160772#0" expanded="false" />
+            <element signature="e#163463#163734#0" expanded="false" />
+            <element signature="e#163733#163734#0" expanded="false" />
+            <element signature="e#163775#164067#0" expanded="false" />
+            <element signature="e#164066#164067#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UsersApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4114">
+          <caret line="219" column="83" lean-forward="false" selection-start-line="219" selection-start-column="57" selection-end-line="219" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/ChatHistoryApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAndDownloadFilesApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadAndDownloadFilesApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9746">
+          <caret line="443" column="0" lean-forward="false" selection-start-line="443" selection-start-column="0" selection-end-line="443" selection-end-column="0" />
+          <folding>
+            <element signature="e#10481#10752#0" expanded="false" />
+            <element signature="e#10751#10752#0" expanded="false" />
+            <element signature="e#10793#11085#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#13198#13204#0" expanded="false" />
+            <element signature="e#13271#13287#0" expanded="false" />
+            <element signature="e#13616#13632#0" expanded="false" />
+            <element signature="e#14336#14843#0" expanded="false" />
+            <element signature="e#14842#14843#0" expanded="false" />
+            <element signature="e#18663#18934#0" expanded="false" />
+            <element signature="e#18933#18934#0" expanded="false" />
+            <element signature="e#18975#19267#0" expanded="false" />
+            <element signature="e#19266#19267#0" expanded="false" />
+            <element signature="e#21748#21754#0" expanded="false" />
+            <element signature="e#21821#21837#0" expanded="false" />
+            <element signature="e#22275#22291#0" expanded="false" />
+            <element signature="e#22928#23435#0" expanded="false" />
+            <element signature="e#23434#23435#0" expanded="false" />
+            <element signature="e#27577#27848#0" expanded="false" />
+            <element signature="e#27847#27848#0" expanded="false" />
+            <element signature="e#27889#28181#0" expanded="false" />
+            <element signature="e#28180#28181#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UsersApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAndDownloadFilesApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="100" column="31" lean-forward="false" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadAndDownloadFilesApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#10481#10752#0" expanded="false" />
+            <element signature="e#10751#10752#0" expanded="false" />
+            <element signature="e#10793#11085#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#13198#13204#0" expanded="false" />
+            <element signature="e#13271#13287#0" expanded="false" />
+            <element signature="e#13616#13632#0" expanded="false" />
+            <element signature="e#14336#14843#0" expanded="false" />
+            <element signature="e#14842#14843#0" expanded="false" />
+            <element signature="e#18663#18934#0" expanded="false" />
+            <element signature="e#18933#18934#0" expanded="false" />
+            <element signature="e#18975#19267#0" expanded="false" />
+            <element signature="e#19266#19267#0" expanded="false" />
+            <element signature="e#21748#21754#0" expanded="false" />
+            <element signature="e#21821#21837#0" expanded="false" />
+            <element signature="e#22275#22291#0" expanded="false" />
+            <element signature="e#22928#23435#0" expanded="false" />
+            <element signature="e#23434#23435#0" expanded="false" />
+            <element signature="e#27577#27848#0" expanded="false" />
+            <element signature="e#27847#27848#0" expanded="false" />
+            <element signature="e#27889#28181#0" expanded="false" />
+            <element signature="e#28180#28181#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UsersApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar!/com/squareup/okhttp/Call.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/ApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="985" column="5" lean-forward="false" selection-start-line="985" selection-start-column="5" selection-end-line="985" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UploadAndDownloadFilesApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="441" column="16" lean-forward="false" selection-start-line="441" selection-start-column="16" selection-end-line="441" selection-end-column="16" />
+          <folding>
+            <element signature="e#10481#10752#0" expanded="false" />
+            <element signature="e#10751#10752#0" expanded="false" />
+            <element signature="e#10793#11085#0" expanded="false" />
+            <element signature="e#11084#11085#0" expanded="false" />
+            <element signature="e#13198#13204#0" expanded="false" />
+            <element signature="e#13271#13287#0" expanded="false" />
+            <element signature="e#13616#13632#0" expanded="false" />
+            <element signature="e#14336#14843#0" expanded="false" />
+            <element signature="e#14842#14843#0" expanded="false" />
+            <element signature="e#18663#18934#0" expanded="false" />
+            <element signature="e#18933#18934#0" expanded="false" />
+            <element signature="e#18975#19267#0" expanded="false" />
+            <element signature="e#19266#19267#0" expanded="false" />
+            <element signature="e#21748#21754#0" expanded="false" />
+            <element signature="e#21821#21837#0" expanded="false" />
+            <element signature="e#22275#22291#0" expanded="false" />
+            <element signature="e#22928#23435#0" expanded="false" />
+            <element signature="e#23434#23435#0" expanded="false" />
+            <element signature="e#27577#27848#0" expanded="false" />
+            <element signature="e#27847#27848#0" expanded="false" />
+            <element signature="e#27889#28181#0" expanded="false" />
+            <element signature="e#28180#28181#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/UploadAndDownloadFilesApi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/AuthenticationApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="135" column="18" lean-forward="false" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2379#2380#0" expanded="false" />
+            <element signature="e#2436#2437#0" expanded="false" />
+            <element signature="e#2489#2490#0" expanded="false" />
+            <element signature="e#2531#2532#0" expanded="false" />
+            <element signature="e#2570#2571#0" expanded="false" />
+            <element signature="e#2602#2603#0" expanded="false" />
+            <element signature="e#2655#2656#0" expanded="false" />
+            <element signature="e#2697#2698#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/UsersApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25124">
+          <caret line="1269" column="18" lean-forward="false" selection-start-line="1269" selection-start-column="18" selection-end-line="1269" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2496#2497#0" expanded="false" />
+            <element signature="e#2553#2554#0" expanded="false" />
+            <element signature="e#2597#2598#0" expanded="false" />
+            <element signature="e#2639#2640#0" expanded="false" />
+            <element signature="e#2678#2679#0" expanded="false" />
+            <element signature="e#2710#2711#0" expanded="false" />
+            <element signature="e#2763#2764#0" expanded="false" />
+            <element signature="e#2805#2806#0" expanded="false" />
+            <element signature="e#4542#4548#0" expanded="false" />
+            <element signature="e#4840#4856#0" expanded="false" />
+            <element signature="e#5051#5067#0" expanded="false" />
+            <element signature="e#5696#6203#0" expanded="false" />
+            <element signature="e#6202#6203#0" expanded="false" />
+            <element signature="e#9899#10170#0" expanded="false" />
+            <element signature="e#10169#10170#0" expanded="false" />
+            <element signature="e#10211#10503#0" expanded="false" />
+            <element signature="e#10502#10503#0" expanded="false" />
+            <element signature="e#12335#12341#0" expanded="false" />
+            <element signature="e#12633#12649#0" expanded="false" />
+            <element signature="e#12844#12860#0" expanded="false" />
+            <element signature="e#13489#13996#0" expanded="false" />
+            <element signature="e#13995#13996#0" expanded="false" />
+            <element signature="e#18268#18539#0" expanded="false" />
+            <element signature="e#18538#18539#0" expanded="false" />
+            <element signature="e#18580#18872#0" expanded="false" />
+            <element signature="e#18871#18872#0" expanded="false" />
+            <element signature="e#21777#21783#0" expanded="false" />
+            <element signature="e#21850#21866#0" expanded="false" />
+            <element signature="e#22061#22077#0" expanded="false" />
+            <element signature="e#22706#23213#0" expanded="false" />
+            <element signature="e#23212#23213#0" expanded="false" />
+            <element signature="e#26559#26830#0" expanded="false" />
+            <element signature="e#26829#26830#0" expanded="false" />
+            <element signature="e#26871#27163#0" expanded="false" />
+            <element signature="e#27162#27163#0" expanded="false" />
+            <element signature="e#29571#29577#0" expanded="false" />
+            <element signature="e#29644#29660#0" expanded="false" />
+            <element signature="e#29855#29871#0" expanded="false" />
+            <element signature="e#30500#31007#0" expanded="false" />
+            <element signature="e#31006#31007#0" expanded="false" />
+            <element signature="e#34034#34305#0" expanded="false" />
+            <element signature="e#34304#34305#0" expanded="false" />
+            <element signature="e#34346#34638#0" expanded="false" />
+            <element signature="e#34637#34638#0" expanded="false" />
+            <element signature="e#37305#37311#0" expanded="false" />
+            <element signature="e#37378#37394#0" expanded="false" />
+            <element signature="e#37589#37605#0" expanded="false" />
+            <element signature="e#38234#38741#0" expanded="false" />
+            <element signature="e#38740#38741#0" expanded="false" />
+            <element signature="e#42240#42511#0" expanded="false" />
+            <element signature="e#42510#42511#0" expanded="false" />
+            <element signature="e#42552#42844#0" expanded="false" />
+            <element signature="e#42843#42844#0" expanded="false" />
+            <element signature="e#45793#45799#0" expanded="false" />
+            <element signature="e#45866#45882#0" expanded="false" />
+            <element signature="e#46077#46093#0" expanded="false" />
+            <element signature="e#46722#47229#0" expanded="false" />
+            <element signature="e#47228#47229#0" expanded="false" />
+            <element signature="e#50556#50827#0" expanded="false" />
+            <element signature="e#50826#50827#0" expanded="false" />
+            <element signature="e#50868#51160#0" expanded="false" />
+            <element signature="e#51159#51160#0" expanded="false" />
+            <element signature="e#54113#54119#0" expanded="false" />
+            <element signature="e#54186#54202#0" expanded="false" />
+            <element signature="e#54397#54413#0" expanded="false" />
+            <element signature="e#55042#55549#0" expanded="false" />
+            <element signature="e#55548#55549#0" expanded="false" />
+            <element signature="e#58961#59232#0" expanded="false" />
+            <element signature="e#59231#59232#0" expanded="false" />
+            <element signature="e#59273#59565#0" expanded="false" />
+            <element signature="e#59564#59565#0" expanded="false" />
+            <element signature="e#61985#61991#0" expanded="false" />
+            <element signature="e#62058#62074#0" expanded="false" />
+            <element signature="e#62269#62285#0" expanded="false" />
+            <element signature="e#62914#63421#0" expanded="false" />
+            <element signature="e#63420#63421#0" expanded="false" />
+            <element signature="e#66410#66681#0" expanded="false" />
+            <element signature="e#66680#66681#0" expanded="false" />
+            <element signature="e#66722#67014#0" expanded="false" />
+            <element signature="e#67013#67014#0" expanded="false" />
+            <element signature="e#69418#69424#0" expanded="false" />
+            <element signature="e#69491#69507#0" expanded="false" />
+            <element signature="e#69702#69718#0" expanded="false" />
+            <element signature="e#70347#70854#0" expanded="false" />
+            <element signature="e#70853#70854#0" expanded="false" />
+            <element signature="e#73766#74037#0" expanded="false" />
+            <element signature="e#74036#74037#0" expanded="false" />
+            <element signature="e#74078#74370#0" expanded="false" />
+            <element signature="e#74369#74370#0" expanded="false" />
+            <element signature="e#76196#76202#0" expanded="false" />
+            <element signature="e#76269#76285#0" expanded="false" />
+            <element signature="e#76480#76496#0" expanded="false" />
+            <element signature="e#77125#77632#0" expanded="false" />
+            <element signature="e#77631#77632#0" expanded="false" />
+            <element signature="e#82783#83054#0" expanded="false" />
+            <element signature="e#83053#83054#0" expanded="false" />
+            <element signature="e#83095#83387#0" expanded="false" />
+            <element signature="e#83386#83387#0" expanded="false" />
+            <element signature="e#85645#85651#0" expanded="false" />
+            <element signature="e#85718#85734#0" expanded="false" />
+            <element signature="e#85929#85945#0" expanded="false" />
+            <element signature="e#86574#87081#0" expanded="false" />
+            <element signature="e#87080#87081#0" expanded="false" />
+            <element signature="e#89896#90167#0" expanded="false" />
+            <element signature="e#90166#90167#0" expanded="false" />
+            <element signature="e#90208#90500#0" expanded="false" />
+            <element signature="e#90499#90500#0" expanded="false" />
+            <element signature="e#92792#92798#0" expanded="false" />
+            <element signature="e#92865#92881#0" expanded="false" />
+            <element signature="e#93076#93092#0" expanded="false" />
+            <element signature="e#93721#94228#0" expanded="false" />
+            <element signature="e#94227#94228#0" expanded="false" />
+            <element signature="e#97125#97396#0" expanded="false" />
+            <element signature="e#97395#97396#0" expanded="false" />
+            <element signature="e#97437#97729#0" expanded="false" />
+            <element signature="e#97728#97729#0" expanded="false" />
+            <element signature="e#99964#99970#0" expanded="false" />
+            <element signature="e#100037#100053#0" expanded="false" />
+            <element signature="e#100248#100264#0" expanded="false" />
+            <element signature="e#100893#101400#0" expanded="false" />
+            <element signature="e#101399#101400#0" expanded="false" />
+            <element signature="e#104487#104758#0" expanded="false" />
+            <element signature="e#104757#104758#0" expanded="false" />
+            <element signature="e#104799#105091#0" expanded="false" />
+            <element signature="e#105090#105091#0" expanded="false" />
+            <element signature="e#107371#107377#0" expanded="false" />
+            <element signature="e#107444#107460#0" expanded="false" />
+            <element signature="e#107655#107671#0" expanded="false" />
+            <element signature="e#108300#108807#0" expanded="false" />
+            <element signature="e#108806#108807#0" expanded="false" />
+            <element signature="e#111542#111813#0" expanded="false" />
+            <element signature="e#111812#111813#0" expanded="false" />
+            <element signature="e#111854#112146#0" expanded="false" />
+            <element signature="e#112145#112146#0" expanded="false" />
+            <element signature="e#114362#114368#0" expanded="false" />
+            <element signature="e#114435#114451#0" expanded="false" />
+            <element signature="e#114646#114662#0" expanded="false" />
+            <element signature="e#115291#115798#0" expanded="false" />
+            <element signature="e#115797#115798#0" expanded="false" />
+            <element signature="e#118423#118694#0" expanded="false" />
+            <element signature="e#118693#118694#0" expanded="false" />
+            <element signature="e#118735#119027#0" expanded="false" />
+            <element signature="e#119026#119027#0" expanded="false" />
+            <element signature="e#121347#121353#0" expanded="false" />
+            <element signature="e#121420#121436#0" expanded="false" />
+            <element signature="e#121631#121647#0" expanded="false" />
+            <element signature="e#122276#122783#0" expanded="false" />
+            <element signature="e#122782#122783#0" expanded="false" />
+            <element signature="e#125563#125834#0" expanded="false" />
+            <element signature="e#125833#125834#0" expanded="false" />
+            <element signature="e#125875#126167#0" expanded="false" />
+            <element signature="e#126166#126167#0" expanded="false" />
+            <element signature="e#128496#128502#0" expanded="false" />
+            <element signature="e#128569#128585#0" expanded="false" />
+            <element signature="e#128780#128796#0" expanded="false" />
+            <element signature="e#129425#129932#0" expanded="false" />
+            <element signature="e#129931#129932#0" expanded="false" />
+            <element signature="e#132713#132984#0" expanded="false" />
+            <element signature="e#132983#132984#0" expanded="false" />
+            <element signature="e#133025#133317#0" expanded="false" />
+            <element signature="e#133316#133317#0" expanded="false" />
+            <element signature="e#136048#136054#0" expanded="false" />
+            <element signature="e#136121#136137#0" expanded="false" />
+            <element signature="e#136333#136349#0" expanded="false" />
+            <element signature="e#136978#137485#0" expanded="false" />
+            <element signature="e#137484#137485#0" expanded="false" />
+            <element signature="e#140724#140995#0" expanded="false" />
+            <element signature="e#140994#140995#0" expanded="false" />
+            <element signature="e#141036#141328#0" expanded="false" />
+            <element signature="e#141327#141328#0" expanded="false" />
+            <element signature="e#143610#143616#0" expanded="false" />
+            <element signature="e#143683#143699#0" expanded="false" />
+            <element signature="e#143894#143910#0" expanded="false" />
+            <element signature="e#144539#145046#0" expanded="false" />
+            <element signature="e#145045#145046#0" expanded="false" />
+            <element signature="e#148782#149053#0" expanded="false" />
+            <element signature="e#149052#149053#0" expanded="false" />
+            <element signature="e#149094#149386#0" expanded="false" />
+            <element signature="e#149385#149386#0" expanded="false" />
+            <element signature="e#151594#151600#0" expanded="false" />
+            <element signature="e#151667#151683#0" expanded="false" />
+            <element signature="e#151878#151894#0" expanded="false" />
+            <element signature="e#152523#153030#0" expanded="false" />
+            <element signature="e#153029#153030#0" expanded="false" />
+            <element signature="e#156477#156748#0" expanded="false" />
+            <element signature="e#156747#156748#0" expanded="false" />
+            <element signature="e#156789#157081#0" expanded="false" />
+            <element signature="e#157080#157081#0" expanded="false" />
+            <element signature="e#159336#159342#0" expanded="false" />
+            <element signature="e#159409#159425#0" expanded="false" />
+            <element signature="e#159620#159636#0" expanded="false" />
+            <element signature="e#160265#160772#0" expanded="false" />
+            <element signature="e#160771#160772#0" expanded="false" />
+            <element signature="e#163463#163734#0" expanded="false" />
+            <element signature="e#163733#163734#0" expanded="false" />
+            <element signature="e#163775#164067#0" expanded="false" />
+            <element signature="e#164066#164067#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/ChatRoomsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/ChatHistoryApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UploadAndDownloadFilesApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1179">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/MessagesApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/GroupsApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/ChatRoomsApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/AuthenticationApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/ChatHistoryApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/swagger/client/api/UsersApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-674">
+          <caret line="219" column="83" lean-forward="false" selection-start-line="219" selection-start-column="57" selection-end-line="219" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/swagger/client/api/GroupsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="251" column="47" lean-forward="false" selection-start-line="251" selection-start-column="47" selection-end-line="251" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
